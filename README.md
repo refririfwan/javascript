@@ -5,8 +5,8 @@ Belajar JavaScript
 Repository ini berisikan kode dasar dari sintak javascript yang dipelajari dari berbagai sumber pembelajaran.
 
 Referensi pembelajaran web :
-1. 
-2. 
+1. https://www.javascript.com/learn/strings
+2. https://www.w3schools.com/js/js_intro.asp
 3. 
 
 Referensi Video Pembelajaran dapat dilihat pada channel youtube refri rifwan pilih play list lalu Belajar Javascript
