@@ -30,8 +30,21 @@
 // console.log(arr.join('\n'));
 
 // 3. unshift & shift (elemen awal)
-var arr = ["refri", "rifwan", "rifwanda"];
-arr.unshift('daharmi');
+// var arr = ["refri", "rifwan", "rifwanda"];
+// arr.unshift('daharmi');
+// console.log(arr.join('\n'));
+// arr.shift();
+// console.log(arr.join('\n'));
+
+// 4. splice (menyisipkan elemen array ditengah)
+// splice(indexAwal, mauDihapusBerapa, elementBaru1, elementBaru2, ...)
+// var arr = ["refri", "rifwan", "rifwanda"];
+// arr.splice(2, 2, 'daharmi', 'rifwanda');
+// console.log(arr.join('\n'));
+
+// 5. slice (mengiris array)
+// slice(awal,akhir)
+var arr = ["refri", "rifwan", "daharmi", "rifwanda"];
 console.log(arr.join('\n'));
-arr.shift();
-console.log(arr.join('\n'));
+var arr2 = arr.slice(0, 2);
+console.log(arr2.join('\n'));
