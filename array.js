@@ -67,8 +67,19 @@
 // console.log(angka2.join('\n'));
 
 // 8. sort
+// var angka = [1, 2, 3, 10, 4, 5, 0, 6, 7, 20, 8, 9];
+// angka.sort(function (a, b) {
+//     return a - b;
+// });
+// console.log(angka.join('\n'));
+
+// 9. filter (filter mengembalikan array) & find(find mngembalikan satu nilai)
 var angka = [1, 2, 3, 10, 4, 5, 0, 6, 7, 20, 8, 9];
-angka.sort(function (a, b) {
-    return a - b;
+var angka2 = angka.filter(function (x) {
+    return x > 5;
 });
-console.log(angka.join('\n'));
+console.log(angka2.join('\n'));
+var angka2 = angka.find(function (x) {
+    return x > 5;
+});
+console.log(angka2);
