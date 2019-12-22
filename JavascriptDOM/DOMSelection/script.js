@@ -20,14 +20,23 @@
 // p1[0].innerHTML = "Ini diubah dari javascript";
 
 // document.querySelector() -> element
-const p4 = document.querySelector('#b p');
-p4.style.color = 'red';
+// const p4 = document.querySelector('#b p');
+// p4.style.color = 'red';
 
-const li2 = document.querySelector('section#b ul li:nth-child(2)');
-li2.style.backgroundColor = 'orange';
+// const li2 = document.querySelector('section#b ul li:nth-child(2)');
+// li2.style.backgroundColor = 'orange';
 
 // document.querySelectorAll() -> NodeList
-const p = document.querySelectorAll('p');
-for (let i = 0; i < p.length; i++) {
-    p[i].style.backgroundColor = 'lightblue';
-}
+// const p = document.querySelectorAll('p');
+// for (let i = 0; i < p.length; i++) {
+//     p[i].style.backgroundColor = 'lightblue';
+// }
+
+// NodeRoot
+// const sectionB = document.getElementById('b');
+// const p4 = sectionB.querySelector('p');
+// p4.style.backgroundColor = 'orange';
+
+const sectionB = document.querySelector('section#b');
+const p4 = sectionB.getElementsByTagName('p')[0];
+p4.style.backgroundColor = 'orange';
