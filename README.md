@@ -8,6 +8,7 @@ Referensi pembelajaran web :
 1. https://www.javascript.com/learn/strings
 2. https://www.w3schools.com/js/js_intro.asp
 3. https://developer.mozilla.org/en-US/docs/Web/Events
+4. https://unsplash.com/
 
 Referensi Video Pembelajaran dapat dilihat pada channel youtube refri rifwan pilih play list lalu Belajar Javascript
 
