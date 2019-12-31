@@ -71,9 +71,16 @@
 // console.log(myTeam);
 
 // filtering
-function filterBy(type, ...values) {
-    return values.filter(v => typeof v === type);
-}
+// function filterBy(type, ...values) {
+//     return values.filter(v => typeof v === type);
+// }
 
-console.log(filterBy('number', 1, 2, 'refri', false, 10, true, 'rifwan'));
-console.log(filterBy('string', 1, 2, 'refri', false, 10, true, 'rifwan'));
+// console.log(filterBy('number', 1, 2, 'refri', false, 10, true, 'rifwan'));
+// console.log(filterBy('string', 1, 2, 'refri', false, 10, true, 'rifwan'));
+
+// Assynchronous
+// console.log('satu');
+// setTimeout(function () {
+//     console.log('dua');
+// }, 5000)
+// console.log('tiga');

@@ -1,0 +1,29 @@
+[{
+        "nama": "Refri",
+        "nim": "1551",
+        "email": "refri@student.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Rifwan",
+        "nim": "1552",
+        "email": "rifwan@student.com",
+        "jurusan": "Teknik Komputer ",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Daharmi",
+        "nim": "1553",
+        "email": "daharmi@student.com",
+        "jurusan": "Teknik Elektro",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Rifwanda",
+        "nim": "1554",
+        "email": "rifwanda@student.com",
+        "jurusan": "Teknik Mesin",
+        "idDosenWali": 1
+    }
+]

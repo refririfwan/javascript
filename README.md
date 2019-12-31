@@ -10,6 +10,9 @@ Referensi pembelajaran web :
 3. https://developer.mozilla.org/en-US/docs/Web/Events
 4. https://unsplash.com/
 5. http://pythontutor.com/javascript.html
+6. http://latentflip.com/loupe/
+7. https://code.jquery.com/
+8. http://www.omdbapi.com/
 
 Referensi Video Pembelajaran dapat dilihat pada channel youtube refri rifwan pilih play list lalu Belajar Javascript
 
