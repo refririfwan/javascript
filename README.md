@@ -13,6 +13,7 @@ Referensi pembelajaran web :
 6. http://latentflip.com/loupe/
 7. https://code.jquery.com/
 8. http://www.omdbapi.com/
+9. https://getbootstrap.com/
 
 Referensi Video Pembelajaran dapat dilihat pada channel youtube refri rifwan pilih play list lalu Belajar Javascript
 
